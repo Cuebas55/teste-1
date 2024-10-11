@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "sumneko.lua",
+        "harryhopkinson.vs-code-runner",
+        "local-smart.excel-live-server",
+        "janw.love-launcher",
+        "bschulte.love"
+    ]
+}
